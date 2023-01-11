@@ -1,0 +1,73 @@
+.container .content-yazı h1 {
+  padding: 10px;
+  line-height: 1.4;
+  text-align: center;
+  font-family: "Chelsea Market";
+}
+p {
+  font-size: 20px;
+  padding: 10px;
+  line-height: 1.4;
+  text-align: center;
+  font-family: "Roboto Mono";
+}
+
+.container-text1 {
+  background-color: #ddb9a3;
+}
+.container-tags header nav a .gezi {
+  margin: 0 10px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 20px;
+  background: #ff764e;
+}
+.container-tags header nav a .bilgi {
+  margin: 0 50px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 20px;
+  background: #5ed3eb;
+}
+
+.container .content-img {
+  position: relative;
+  width: 5px;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 100%;
+}
+.container .content-img2 {
+  width: 15%;
+  display: block;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+.container- .content-img2 {
+  width: 15%;
+  display: block;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+footer .container-img1 {
+  width: 100%;
+  display: block;
+  width: 82px;
+  height: 120;
+
+  background-size: 100% 100%;
+  border-radius: 10px;
+}
